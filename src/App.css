@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.app{
+    width: 345px;
+    height: 150px;
+    background-color: pink;
+    margin: 15px;
+}
